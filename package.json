@@ -1,0 +1,25 @@
+{
+  "name": "korma",
+  "version": "0.0.1",
+  "description": "A helper module that creates a currying function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "curry",
+    "functions",
+    "arguments",
+    "results"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edgeui/korma"
+  },
+  "author": "Chris Johnson <me@cmj.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
