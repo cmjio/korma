@@ -1,6 +1,6 @@
 {
   "name": "korma",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A helper module that creates a currying function",
   "main": "index.js",
   "scripts": {
