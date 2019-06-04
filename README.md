@@ -33,4 +33,4 @@ $ npm test
 
 [MIT](LICENSE)
 
-Copyright (c) 2014 [Chris Johnson](https://github.com/edgeui)
+Copyright (c) 2014-2019 [Chris Johnson](https://github.com/cmjio)
